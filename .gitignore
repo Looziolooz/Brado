@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.gstack/
+
+# local tool config — contains an API key, must NOT be committed
+opencode.json
